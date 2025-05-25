@@ -1,6 +1,6 @@
 ﻿using System;
 class program
 {
-    void main()
-    { Console.WriteLine("САСАВОТ ХОУБИСТ"); }
-}
+    static public void main()
+    { Console.WriteLine("САСАВОТ ХОУБИСТ");
+        Console.WriteLine("Hello World");   } }
