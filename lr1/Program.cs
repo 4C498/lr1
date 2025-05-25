@@ -1,2 +1,4 @@
 ﻿using System;
-class program { 
+class program
+{
+    void main()
